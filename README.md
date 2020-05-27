@@ -11,7 +11,9 @@ Project Requirements: Python, IBM Cloud, IBM Watson (Watson Assistant, Watson Di
 
 
 Name: Aayushi Gandhi
+
 Email: gandhiaayushi28@gmail.com
+
 Youtube Link: https://youtu.be/8AdQiZfgTMU
 
 
