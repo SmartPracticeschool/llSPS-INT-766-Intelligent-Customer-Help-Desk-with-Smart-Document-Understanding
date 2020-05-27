@@ -8,3 +8,10 @@ In this project, there will be another option. If the customer question is about
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owner's manual is important and what is not. This will improve the answers returned from the queries.
 
 Project Requirements: Python, IBM Cloud, IBM Watson (Watson Assistant, Watson Discovery)
+
+
+Name: Aayushi Gandhi
+Email: gandhiaayushi28@gmail.com
+Youtube Link: https://youtu.be/8AdQiZfgTMU
+
+
